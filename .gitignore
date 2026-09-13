@@ -14,6 +14,7 @@ Thumbs.db
 
 # Firebase & Local Buffers
 firebase_offline_queue.json
+.firebase/
 
 # Audio Cache (re-generated on demand)
 audio_cache/*.mp3
