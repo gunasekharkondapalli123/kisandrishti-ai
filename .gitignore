@@ -1,0 +1,27 @@
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
+.system_generated/
+
+# Firebase & Local Buffers
+firebase_offline_queue.json
+
+# Audio Cache (re-generated on demand)
+audio_cache/*.mp3
+!audio_cache/.gitkeep
+
+# Portable Git
+mingit/
+
+# Legacy / Starter archive
+AP_Agro_Assistant/
+

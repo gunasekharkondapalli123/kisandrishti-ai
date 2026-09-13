@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+opencv-python
+pillow
+pandas
+gTTS
+requests
