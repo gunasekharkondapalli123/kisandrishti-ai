@@ -47,7 +47,7 @@
 
 ### 1. Clone & Setup Virtual Environment
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/kisandrishti-ai.git
+git clone https://github.com/gunasekharkondapalli123/kisandrishti-ai.git
 cd kisandrishti-ai
 
 python -m venv .venv
