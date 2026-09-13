@@ -8,6 +8,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28.svg)](https://firebase.google.com/)
 [![Latency](https://img.shields.io/badge/Latency-%3C50ms-orange.svg)]()
 [![Cloud Dependency](https://img.shields.io/badge/Cloud%20Dependency-0%25%20(Edge)-success.svg)]()
+[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=gunasekharkondapalli123%2Fkisandrishti-ai&branch=main&mainModule=app.py)
 
 ---
 
@@ -73,6 +74,13 @@ Open **`http://localhost:8501`** in your browser.
 ---
 
 ## ☁️ Deployment
+
+### 🌟 Streamlit Community Cloud (Instant 1-Click Live AI App)
+Deploy the full Python AI app (YOLOv8 + OpenCV + Telugu Audio + Firestore) for free 24/7:
+- 👉 **[1-Click Deploy on Streamlit Cloud](https://share.streamlit.io/deploy?repository=gunasekharkondapalli123%2Fkisandrishti-ai&branch=main&mainModule=app.py)**
+- Repository: `gunasekharkondapalli123/kisandrishti-ai`
+- Branch: `main`
+- Main file path: `app.py`
 
 ### Firebase Hosting
 ```bash
