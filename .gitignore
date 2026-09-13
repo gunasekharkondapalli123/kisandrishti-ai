@@ -22,6 +22,11 @@ audio_cache/*.mp3
 # Portable Git
 mingit/
 
+# Portable Node
+node_dist/
+node_modules/
+
 # Legacy / Starter archive
 AP_Agro_Assistant/
+
 
